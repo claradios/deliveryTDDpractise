@@ -1,4 +1,8 @@
 body {
-    color: lightgreen;
-    color:black;
+    background-color: lightgreen;
+    color: white;    
+}
+
+.app__header{
+    background-color:black;
 }
